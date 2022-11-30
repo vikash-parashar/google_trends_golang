@@ -1,3 +1,3 @@
-module github.com/vikashparashar/golang_project_02
+module github.com/vikashparashar/google_trends_golang
 
 go 1.19
